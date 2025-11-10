@@ -1,0 +1,1 @@
+O programa implementa uma criptografia simples de texto em linguagem C, utilizando uma variação do código de César. Ele solicita ao usuário uma palavra, um valor de shift (deslocamento) e um valor de pulo (incremento adicional da progressão), e gera uma nova palavra com as letras deslocadas no alfabeto.
